@@ -1,6 +1,7 @@
 
 ### 
 ⚡ Desarrolladora Frontend JR.
+
 👩🏾‍💻 Analista en Informática
 
 [![Twitter Badge](https://img.shields.io/badge/-Gaby_Moya-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/GabiAleMoya)](https://twitter.com/GabiAleMoya) ![Linkedin Badge](https://img.shields.io/badge/-Gaby_Moya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabialemoya/) ![Gmail Badge](https://img.shields.io/badge/-gmgabiale72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmgabiale72@gmail.com)
