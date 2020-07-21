@@ -1,5 +1,13 @@
-### Hi there 👋
 
+### 
+⚡ Desarrolladora Frontend JR.
+👩🏾‍💻 Analista en Informática
+
+[![Twitter Badge](https://img.shields.io/badge/-Gaby_Moya-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/GabiAleMoya)](https://twitter.com/GabiAleMoya) ![Linkedin Badge](https://img.shields.io/badge/-Gaby_Moya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabialemoya/) ![Gmail Badge](https://img.shields.io/badge/-gmgabiale72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmgabiale72@gmail.com)
+
+Mi nombre es Gabriela Moya, soy Analista en informática y actualmente estoy incursionando en el desarrollo Front End. Desarrollé cursos de Programación en C y Desarrollo Móvil en Kotlin y dí clases de robótica con Arduino.
+
+Lenguajes: C, C#, Java, Kotlin, JS, HTML/CSS
 <!--
 **Gabialemoya/Gabialemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
