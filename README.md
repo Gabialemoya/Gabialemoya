@@ -8,7 +8,9 @@
 
 Mi nombre es Gabriela Moya, soy Analista en informática y actualmente estoy incursionando en el desarrollo Front End. Desarrollé cursos de Programación en C y Desarrollo Móvil en Kotlin. Además, dí clases de robótica con Arduino.
 
-Lenguajes: C, C#, Java, Kotlin, JS, HTML/CSS
+✨ C, C#, Java, Kotlin, JS, HTML/CSS
+✨ PostgreSQL, Firebase
+✨ Angular, React
 <!--
 **Gabialemoya/Gabialemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
