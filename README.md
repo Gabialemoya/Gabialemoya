@@ -9,7 +9,9 @@
 Soy Analista en informática y actualmente estoy incursionando en el desarrollo Front End. Desarrollé cursos de Programación en C, Desarrollo Móvil en Kotlin y robótica con Arduino.
 
 ✨ C, C#, Java, Kotlin, JS, HTML/CSS
+
 ✨ PostgreSQL, Firebase
+
 ✨ Angular, React
 <!--
 **Gabialemoya/Gabialemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
