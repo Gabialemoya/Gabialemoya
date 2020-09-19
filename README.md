@@ -1,6 +1,6 @@
 
 ### Hola, soy Gaby 👋🏾
-⚡ Desarrolladora Frontend JR.
+⚡ Desarrolladora Frontend trainee.
 
 👩🏾‍💻 Analista en Informática
 
